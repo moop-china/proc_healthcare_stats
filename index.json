@@ -1,0 +1,13 @@
+{
+    "labs": [
+        { "face-detection.ipynb": "01. 绪论" },
+        { "face-recognition.ipynb": "02 . 统计描述" },
+        { "face-recognition.ipynb": "03. 常规检验" },
+        { "face-recognition.ipynb": "04. 两组数值变量比较的假设检验" },
+        { "face-recognition.ipynb": "05. 多组数值变量比较的假设检验" },
+         { "face-recognition.ipynb": "06. 分类变量比较的假设检验" },
+        { "face-recognition.ipynb": "07 相关性假设检验" },
+        { "face-recognition.ipynb": "08. 多元回归析（逻辑回归）" },
+        { "face-recognition.ipynb": "09. 诊断试验(ROC分析)" }
+    ]
+}
